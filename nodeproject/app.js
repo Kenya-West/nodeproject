@@ -1,2 +1,3 @@
-var KW = 'Kesha here!';
-console.log(KW);
+var express = require('express');
+var app = express();
+
